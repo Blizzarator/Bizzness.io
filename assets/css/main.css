@@ -5,6 +5,7 @@
 	Paradigm Shift by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 */
 
 html, body, div, span, applet, object,
@@ -121,13 +122,13 @@ input, select, textarea {
 /* Typography */
 
 	html {
-		font-size: 18pt;
+		font-size: 19pt;
 	}
 
 		@media screen and (max-width: 1920px) {
 
 			html {
-				font-size: 13pt;
+				font-size: 15pt;
 			}
 
 		}
@@ -135,7 +136,7 @@ input, select, textarea {
 		@media screen and (max-width: 1152px) {
 
 			html {
-				font-size: 14pt;
+				font-size: 16pt;
 			}
 
 		}
@@ -143,7 +144,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 		}
